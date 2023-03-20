@@ -1,0 +1,17 @@
+body {
+    background-color: ivory;
+    justify-content: center;
+}
+.bold {
+    font-weight: 900;
+    font-size: 95px;
+
+}
+
+.dark {
+    background-color: black;
+}
+
+.dark * {
+    color: white;
+}
